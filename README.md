@@ -1,5 +1,6 @@
 <h2 align="center"><img src="./media/logo.gif" width="30px"> Discord Music Bot <img src="./media/logo.gif" width="30px"></h2>
-<align="center"><img src="./media/logo.gif">
+
+<div align="center"> <img src="./media/banner.jpg"> </div>
 
 <h1 align="center"> Alligator </h1>
 
