@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./media/logo.gif" width="30px"> Discord Music Bot <img src="./media/logo.gif" width="30px"></h2>
+<h1 align="center"><img src="./media/logo.gif" width="30px"> Discord Music Bot <img src="./media/logo.gif" width="30px"></h1>
 
 <div align="center"> <img src="./media/banner.jpg"> </div>
 
