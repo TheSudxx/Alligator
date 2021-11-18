@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="./media/banner.jpg"> </div>
 
-<h1 align="center"> Alligator </h1>
+<h1 align="center"> 🐊Alligator🐊 </h1>
 
 ##### Alligator is a free Discord music bot that delivers high-quality music to your Discord server.
 
