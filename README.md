@@ -6,6 +6,9 @@
 
 **Alligator is a free Discord music bot that delivers high-quality music to your Discord server.**
 
+## Usage 
+- Rename `.env.example` to `.env` and replace those values with yours. 
+
 ### 🛡[Support Server](https://discord.gg/aDhVYEH) 
 - If you have major coding issues with this bot, please join and ask for help.
 
