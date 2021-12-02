@@ -13,5 +13,5 @@
 - If you have major coding issues with this bot, please join and ask for help.
 
 ### 🛡Author
-- GitHub [@Shadow](https://github.com/ShinoyFroster)
-- Discord [Dr.Sudeb#4011](https://discord.com/users/538567148277202944)
+- GitHub [@Itz Froster](https://github.com/ShinoyFroster)
+- Discord [Shinoy Froster#8014](https://discord.com/users/659644949658075156)
