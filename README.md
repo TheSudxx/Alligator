@@ -9,7 +9,7 @@
 ## Usage 
 - Rename `.env.example` to `.env` and replace those values with yours. 
 
-### 🛡[Support Server](https://discord.gg/aDhVYEH) 
+### 🛡[Support Server](https://discord.gg/D64CyEQ26W) 
 - If you have major coding issues with this bot, please join and ask for help.
 
 ### 🛡Author
